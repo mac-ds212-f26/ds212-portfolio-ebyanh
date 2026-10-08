@@ -68,8 +68,7 @@ book:
       chapters:
       - tt/2025-07-08.qmd
       - tt/2025-07-15.qmd
-      - tt/hw01-tt.qmd
-      - tt/hw02-p1.qmd
+
 
     - part: "Pre-Class Learnings"
       chapters:
@@ -79,6 +78,7 @@ book:
       chapters:
       - ica/ica-sample1.qmd
       - ica/ica-sample2.qmd
+      - ica/03-adv-ggplot-notes.qmd
 
     - part: "Extras"
       chapters:
